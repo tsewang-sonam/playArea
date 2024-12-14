@@ -1,7 +1,10 @@
 ### Steps to Run the App
 
-Open Terminal
-Run this command to clone the repo -  
+Open Terminal  
+Run this command to clone the repo - "https://github.com/tsewang-sonam/playArea.git"
+
+Open the Project in Xcode
+Click the Run button (play icon) or press Cmd + R 
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 I mainy focused on making sure to correctly implement swift concurrency and caching properly as i feel that it was the main focus of the project. 
