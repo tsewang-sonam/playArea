@@ -1,6 +1,8 @@
 
-  ![Simulator Screenshot - iPhone 15 - 2024-12-14 at 13 05 24](https://github.com/user-attachments/assets/ead9a297-cec6-453d-afba-98819642465c)![Simulator Screenshot - iPhone 15 - 2024-12-14 at 13 05 48](https://github.com/user-attachments/assets/0b33945d-184e-4369-a743-d4a3814dfebd)
-![Simulator Screenshot - iPhone 15 - 2024-12-14 at 13 05 35](https://github.com/user-attachments/assets/222e312f-8f31-4433-983a-937cb8255595)
+
+<img src="(https://github.com/user-attachments/assets/ead9a297-cec6-453d-afba-98819642465c" alt="Simulator Screenshot" width="200" />
+<img src="(https://https://github.com/user-attachments/assets/0b33945d-184e-4369-a743-d4a3814dfebd" alt="Simulator Screenshot" width="200" />
+<img src="(https://github.com/user-attachments/assets/222e312f-8f31-4433-983a-937cb8255595" alt="Simulator Screenshot" width="200" />
   
 ### Steps to Run the App
 
