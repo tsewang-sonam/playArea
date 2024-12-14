@@ -3,7 +3,7 @@
 Open Terminal  
 Run this command to clone the repo - "https://github.com/tsewang-sonam/playArea.git"
 
-Open the Project in Xcode
+Open the Project in Xcode  
 Click the Run button (play icon) or press Cmd + R 
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
